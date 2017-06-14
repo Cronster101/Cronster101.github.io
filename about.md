@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+### More Information
+
+i am ruly gud at eenglish and speeling. this is my amzig blog.
+
 Good videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZN0pqkKhf1o" frameborder="0" allowfullscreen></iframe>
@@ -16,13 +20,9 @@ Good videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VpCiiMB6IRQ" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gjoNgX2B7pw" frameborder="0" allowfullscreen></iframe>
 
 The Best Vines:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLEb3UPVMI0SsumXMwXjarrNwlChWLxZJh" frameborder="0" allowfullscreen></iframe>
 
 
-### More Information
-
-i am ruly gud at eenglish and speeling. this is my amzig blog.
