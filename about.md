@@ -6,7 +6,7 @@ permalink: /about/
 
 ### More Information
 
-i am ruly gud at eenglish and speeling. this is my amzig blog.
+### i am ruly gud at eenglish and speeling adn this is my amzig blog.
 
 Good videos:
 
