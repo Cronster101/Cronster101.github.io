@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $orange;
   }
 }
 
@@ -117,17 +117,17 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $orange;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $orange;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $orange;
 }
 
 // Nicolas Gallagher's micro clearfix hack
